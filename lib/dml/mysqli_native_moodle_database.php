@@ -1819,3 +1819,5 @@ class mysqli_native_moodle_database extends moodle_database {
         return true;
     }
 }
+
+
